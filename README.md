@@ -1,7 +1,6 @@
 # Rachittayal
 <h1 align="center">Hi 👋, I'm Rachit Tayal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachittayal&label=Profile%20views&color=0e75b6&style=flat" alt="rachittayal" /> </p>
 
@@ -16,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rachittayal2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachittayal2604" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit-tayal-0b7278259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit-tayal-0b7278259/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/rachittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/rachittayal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rachit tayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachit tayal" height="30" width="40" /></a>
+<a href="https://www.behance.net/rachit tayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rachit tayal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
