@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rachit Tayal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="![Screenshot 2023-06-04 183939](https://github.com/Rachittayal/Rachittayal/assets/119750713/72fba810-c0b3-41d0-9ba7-b25e8945bddc)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/119750713/243180156-72fba810-c0b3-41d0-9ba7-b25e8945bddc.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachittayal&label=Profile%20views&color=0e75b6&style=flat" alt="rachittayal" /> </p>
