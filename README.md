@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachittayal&label=Profile%20views&color=0e75b6&style=flat" alt="rachittayal" /> </p>
+<p align="left"> <img src="![Screenshot 2023-06-04 183939](https://github.com/Rachittayal/Rachittayal/assets/119750713/72fba810-c0b3-41d0-9ba7-b25e8945bddc)" alt="rachittayal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rachittayal2604" target="blank"><img src="https://img.shields.io/twitter/follow/rachittayal2604?logo=twitter&style=for-the-badge" alt="rachittayal2604" /></a> </p>
 
