@@ -1,5 +1,5 @@
 # Rachittayal
-[![MasterHead](https://user-images.githubusercontent.com/119750713/243352582-cd8b7d3b-7f3a-4979-8851-0eb8281f056d.png)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/119750713/243353527-96d6ccf2-62c1-4ead-9a2a-ef1fd6cb1928.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rachit Tayal</h1>
 <h3 align="center">Next Generation Developer #AI,#ML,#DS</h3>
