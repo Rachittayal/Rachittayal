@@ -38,11 +38,9 @@
 <br/>
 <div align="center">
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C.svg" />
-    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C%2B%2B.svg" /><br>
-</div>
-<div align="center">
-    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/CSS.svg" />
-</div>
+    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C%2B%2B.svg" />
+    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/CSS.svg" /><br>
+
 
 <br/>
 
