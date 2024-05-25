@@ -40,7 +40,8 @@
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C.svg" />
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C++.svg" />
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/HTML.svg?short_path=9b79aa2" />
-    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/CSS.svg?short_path=bfa3e76" /><br>
+    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/CSS.svg?short_path=bfa3e76" />
+    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/JAVA.svg?short_path=9a3dac3" /><br>
 
 
 <br/>
