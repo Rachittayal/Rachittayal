@@ -39,7 +39,7 @@
 <div align="center">
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C.svg" />
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C++.svg" />
-    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/HTML.svg" /><br>
+    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/HTML.svg?short_path=9b79aa2" /><br>
 
 
 <br/>
