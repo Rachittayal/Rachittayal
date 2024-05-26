@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C.svg" />
+    <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C.svg?short_path=14874de" />
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/C++.svg" />
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/HTML.svg?short_path=9b79aa2" />
     <img src="https://github.com/Rachittayal/Rachittayal/blob/main/CSS.svg?short_path=bfa3e76" />
