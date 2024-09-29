@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Tayal</h1>
 <h3 align="center">AI-Powered Solutions for Real-World Problems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachittayal" alt="rachittayal" /></a> </p>
-
 - 🔭 I’m currently working on **Image Inquiry Bot**
 
 - 📫 How to reach me **rachittayal99@gmail.com**
@@ -22,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachittayal&show_icons=true&locale=en" alt="rachittayal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachittayal&" alt="rachittayal" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachittayal" alt="rachittayal" /></a> </p>
+
